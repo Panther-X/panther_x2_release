@@ -7,3 +7,7 @@
 ## 2022-02-14
 
 * Fix: Fixed rssi sensitivity for Browan SX1308 module
+
+## 2022-11-10
+
+* Fix: Support packet forwarder region changes
