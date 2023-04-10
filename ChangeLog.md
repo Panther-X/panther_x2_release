@@ -11,3 +11,7 @@
 ## 2022-11-10
 
 * Fix: Support packet forwarder region changes
+
+## 2023-04-10
+
+* Update: Update gateway-config for latest gateway-rs release
